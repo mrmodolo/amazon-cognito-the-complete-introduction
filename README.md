@@ -31,6 +31,8 @@ https://jwt.io/
 
 [Configuring a user pool app client](https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-user-pools-app-idp-settings.html)
 
+[Using AWS Cognito for authentication](https://hasura.io/docs/latest/guides/integrations/aws-cognito/)
+
 ## Udemy
 
 https://www.udemy.com/course/amazon-cognito-the-complete-introduction-2019/learn/lecture/14010382#overview
